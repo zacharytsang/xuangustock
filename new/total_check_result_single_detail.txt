@@ -1,0 +1,508 @@
+002792	 cycle: 	10	 failed: 	0	 success: 	1
+002792	 cycle: 	12	 failed: 	16	 success: 	1
+002792	 cycle: 	14	 failed: 	18	 success: 	1
+002792	 cycle: 	16	 failed: 	17	 success: 	1
+002792	 cycle: 	17	 failed: 	1	 success: 	1
+002792	 cycle: 	19	 failed: 	0	 success: 	1
+
+
+
+002789	 cycle: 	12	 failed: 	0	 success: 	1
+002789	 cycle: 	13	 failed: 	0	 success: 	1
+002789	 cycle: 	14	 failed: 	0	 success: 	1
+002789	 cycle: 	16	 failed: 	0	 success: 	1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+002779	 cycle: 	7	 failed: 	17	 success: 	2
+002779	 cycle: 	9	 failed: 	15	 success: 	1
+002779	 cycle: 	10	 failed: 	7	 success: 	1
+002779	 cycle: 	11	 failed: 	23	 success: 	2
+002779	 cycle: 	13	 failed: 	27	 success: 	1
+002779	 cycle: 	18	 failed: 	20	 success: 	1
+
+
+
+
+
+
+
+
+
+002778	 cycle: 	7	 failed: 	6	 success: 	1
+002778	 cycle: 	8	 failed: 	13	 success: 	1
+002778	 cycle: 	9	 failed: 	1	 success: 	1
+002778	 cycle: 	13	 failed: 	1	 success: 	1
+002778	 cycle: 	18	 failed: 	0	 success: 	1
+002778	 cycle: 	19	 failed: 	0	 success: 	1
+002778	 cycle: 	20	 failed: 	0	 success: 	1
+
+
+
+002786	 cycle: 	8	 failed: 	16	 success: 	2
+002786	 cycle: 	9	 failed: 	25	 success: 	2
+002786	 cycle: 	10	 failed: 	0	 success: 	1
+002786	 cycle: 	11	 failed: 	21	 success: 	1
+002786	 cycle: 	13	 failed: 	1	 success: 	1
+002786	 cycle: 	14	 failed: 	14	 success: 	2
+002786	 cycle: 	15	 failed: 	0	 success: 	1
+002786	 cycle: 	16	 failed: 	0	 success: 	1
+002786	 cycle: 	17	 failed: 	0	 success: 	1
+002786	 cycle: 	18	 failed: 	0	 success: 	2
+
+
+
+002777	 cycle: 	11	 failed: 	18	 success: 	1
+002777	 cycle: 	12	 failed: 	46	 success: 	1
+002777	 cycle: 	18	 failed: 	7	 success: 	1
+002777	 cycle: 	19	 failed: 	16	 success: 	2
+002777	 cycle: 	20	 failed: 	5	 success: 	1
+
+
+
+002782	 cycle: 	8	 failed: 	14	 success: 	2
+002782	 cycle: 	9	 failed: 	21	 success: 	3
+002782	 cycle: 	10	 failed: 	4	 success: 	4
+002782	 cycle: 	14	 failed: 	0	 success: 	1
+002782	 cycle: 	15	 failed: 	0	 success: 	1
+002782	 cycle: 	16	 failed: 	0	 success: 	1
+
+
+
+002787	 cycle: 	8	 failed: 	3	 success: 	3
+002787	 cycle: 	9	 failed: 	0	 success: 	1
+002787	 cycle: 	15	 failed: 	50	 success: 	1
+002787	 cycle: 	20	 failed: 	0	 success: 	1
+
+
+
+002785	 cycle: 	7	 failed: 	5	 success: 	1
+002785	 cycle: 	12	 failed: 	19	 success: 	1
+002785	 cycle: 	15	 failed: 	14	 success: 	1
+002785	 cycle: 	19	 failed: 	15	 success: 	1
+
+
+
+002781	 cycle: 	7	 failed: 	8	 success: 	1
+002781	 cycle: 	9	 failed: 	21	 success: 	2
+002781	 cycle: 	10	 failed: 	7	 success: 	1
+002781	 cycle: 	13	 failed: 	12	 success: 	2
+002781	 cycle: 	16	 failed: 	0	 success: 	1
+002781	 cycle: 	19	 failed: 	14	 success: 	1
+002781	 cycle: 	20	 failed: 	2	 success: 	1
+
+
+
+002771	 cycle: 	8	 failed: 	23	 success: 	2
+002771	 cycle: 	9	 failed: 	2	 success: 	1
+002771	 cycle: 	13	 failed: 	10	 success: 	3
+002771	 cycle: 	20	 failed: 	5	 success: 	1
+
+
+
+002766	 cycle: 	7	 failed: 	13	 success: 	4
+002766	 cycle: 	9	 failed: 	40	 success: 	2
+002766	 cycle: 	10	 failed: 	15	 success: 	1
+002766	 cycle: 	13	 failed: 	1	 success: 	1
+002766	 cycle: 	17	 failed: 	4	 success: 	4
+002766	 cycle: 	18	 failed: 	23	 success: 	4
+002766	 cycle: 	19	 failed: 	26	 success: 	1
+
+
+
+002772	 cycle: 	7	 failed: 	39	 success: 	3
+002772	 cycle: 	10	 failed: 	20	 success: 	2
+002772	 cycle: 	11	 failed: 	19	 success: 	2
+002772	 cycle: 	12	 failed: 	38	 success: 	1
+002772	 cycle: 	14	 failed: 	18	 success: 	1
+002772	 cycle: 	15	 failed: 	25	 success: 	2
+002772	 cycle: 	17	 failed: 	20	 success: 	2
+002772	 cycle: 	18	 failed: 	31	 success: 	1
+002772	 cycle: 	19	 failed: 	49	 success: 	2
+002772	 cycle: 	20	 failed: 	39	 success: 	1
+
+
+
+002776	 cycle: 	7	 failed: 	21	 success: 	1
+002776	 cycle: 	10	 failed: 	13	 success: 	1
+002776	 cycle: 	12	 failed: 	20	 success: 	2
+002776	 cycle: 	13	 failed: 	20	 success: 	1
+002776	 cycle: 	15	 failed: 	26	 success: 	1
+002776	 cycle: 	17	 failed: 	33	 success: 	3
+002776	 cycle: 	18	 failed: 	49	 success: 	3
+
+
+
+002775	 cycle: 	11	 failed: 	17	 success: 	1
+002775	 cycle: 	12	 failed: 	2	 success: 	1
+002775	 cycle: 	13	 failed: 	15	 success: 	2
+002775	 cycle: 	14	 failed: 	0	 success: 	1
+002775	 cycle: 	15	 failed: 	2	 success: 	1
+002775	 cycle: 	16	 failed: 	1	 success: 	2
+002775	 cycle: 	18	 failed: 	0	 success: 	1
+002775	 cycle: 	20	 failed: 	10	 success: 	2
+
+
+
+002762	 cycle: 	8	 failed: 	15	 success: 	1
+002762	 cycle: 	14	 failed: 	32	 success: 	1
+
+
+
+002768	 cycle: 	7	 failed: 	12	 success: 	2
+002768	 cycle: 	8	 failed: 	35	 success: 	2
+002768	 cycle: 	9	 failed: 	21	 success: 	2
+002768	 cycle: 	10	 failed: 	38	 success: 	5
+002768	 cycle: 	11	 failed: 	7	 success: 	3
+002768	 cycle: 	12	 failed: 	3	 success: 	1
+002768	 cycle: 	13	 failed: 	20	 success: 	2
+002768	 cycle: 	14	 failed: 	11	 success: 	5
+002768	 cycle: 	16	 failed: 	26	 success: 	5
+002768	 cycle: 	17	 failed: 	9	 success: 	2
+002768	 cycle: 	18	 failed: 	1	 success: 	1
+002768	 cycle: 	19	 failed: 	24	 success: 	6
+002768	 cycle: 	20	 failed: 	33	 success: 	4
+
+
+
+002773	 cycle: 	9	 failed: 	38	 success: 	1
+002773	 cycle: 	13	 failed: 	0	 success: 	1
+002773	 cycle: 	16	 failed: 	24	 success: 	1
+002773	 cycle: 	18	 failed: 	36	 success: 	2
+002773	 cycle: 	19	 failed: 	12	 success: 	2
+
+
+
+002770	 cycle: 	7	 failed: 	14	 success: 	3
+002770	 cycle: 	8	 failed: 	6	 success: 	2
+002770	 cycle: 	9	 failed: 	20	 success: 	2
+002770	 cycle: 	10	 failed: 	56	 success: 	2
+002770	 cycle: 	11	 failed: 	15	 success: 	1
+002770	 cycle: 	12	 failed: 	32	 success: 	1
+002770	 cycle: 	13	 failed: 	9	 success: 	1
+002770	 cycle: 	16	 failed: 	11	 success: 	1
+002770	 cycle: 	19	 failed: 	20	 success: 	1
+002770	 cycle: 	20	 failed: 	0	 success: 	1
+
+
+
+002767	 cycle: 	7	 failed: 	4	 success: 	2
+002767	 cycle: 	8	 failed: 	0	 success: 	1
+002767	 cycle: 	9	 failed: 	15	 success: 	1
+002767	 cycle: 	10	 failed: 	11	 success: 	1
+002767	 cycle: 	11	 failed: 	1	 success: 	1
+002767	 cycle: 	12	 failed: 	1	 success: 	2
+002767	 cycle: 	13	 failed: 	1	 success: 	1
+002767	 cycle: 	14	 failed: 	36	 success: 	1
+002767	 cycle: 	15	 failed: 	34	 success: 	1
+002767	 cycle: 	16	 failed: 	17	 success: 	4
+002767	 cycle: 	17	 failed: 	5	 success: 	1
+002767	 cycle: 	18	 failed: 	10	 success: 	2
+
+
+
+002769	 cycle: 	7	 failed: 	18	 success: 	3
+002769	 cycle: 	8	 failed: 	20	 success: 	3
+002769	 cycle: 	9	 failed: 	26	 success: 	1
+002769	 cycle: 	11	 failed: 	7	 success: 	1
+002769	 cycle: 	13	 failed: 	1	 success: 	1
+002769	 cycle: 	15	 failed: 	1	 success: 	1
+002769	 cycle: 	17	 failed: 	0	 success: 	1
+002769	 cycle: 	19	 failed: 	0	 success: 	1
+002769	 cycle: 	20	 failed: 	0	 success: 	1
+
+
+
+002765	 cycle: 	7	 failed: 	27	 success: 	2
+002765	 cycle: 	8	 failed: 	32	 success: 	2
+002765	 cycle: 	9	 failed: 	20	 success: 	1
+002765	 cycle: 	10	 failed: 	3	 success: 	2
+002765	 cycle: 	13	 failed: 	3	 success: 	1
+002765	 cycle: 	14	 failed: 	2	 success: 	1
+002765	 cycle: 	15	 failed: 	55	 success: 	2
+002765	 cycle: 	16	 failed: 	37	 success: 	1
+002765	 cycle: 	17	 failed: 	10	 success: 	2
+002765	 cycle: 	18	 failed: 	9	 success: 	1
+002765	 cycle: 	19	 failed: 	23	 success: 	1
+002765	 cycle: 	20	 failed: 	18	 success: 	1
+
+
+
+
+
+
+002759	 cycle: 	7	 failed: 	46	 success: 	4
+002759	 cycle: 	8	 failed: 	13	 success: 	3
+002759	 cycle: 	9	 failed: 	37	 success: 	4
+002759	 cycle: 	10	 failed: 	19	 success: 	1
+002759	 cycle: 	11	 failed: 	23	 success: 	5
+002759	 cycle: 	12	 failed: 	19	 success: 	3
+002759	 cycle: 	13	 failed: 	34	 success: 	5
+002759	 cycle: 	16	 failed: 	9	 success: 	1
+002759	 cycle: 	17	 failed: 	16	 success: 	2
+002759	 cycle: 	18	 failed: 	27	 success: 	4
+002759	 cycle: 	19	 failed: 	3	 success: 	1
+002759	 cycle: 	20	 failed: 	34	 success: 	5
+
+
+
+002763	 cycle: 	7	 failed: 	8	 success: 	1
+002763	 cycle: 	8	 failed: 	17	 success: 	4
+002763	 cycle: 	10	 failed: 	48	 success: 	2
+002763	 cycle: 	11	 failed: 	48	 success: 	1
+002763	 cycle: 	15	 failed: 	3	 success: 	3
+
+
+
+002761	 cycle: 	8	 failed: 	5	 success: 	1
+002761	 cycle: 	9	 failed: 	30	 success: 	1
+002761	 cycle: 	10	 failed: 	6	 success: 	1
+002761	 cycle: 	12	 failed: 	6	 success: 	2
+002761	 cycle: 	13	 failed: 	2	 success: 	1
+002761	 cycle: 	17	 failed: 	10	 success: 	1
+002761	 cycle: 	18	 failed: 	0	 success: 	1
+
+
+
+002760	 cycle: 	8	 failed: 	32	 success: 	2
+002760	 cycle: 	9	 failed: 	6	 success: 	2
+002760	 cycle: 	10	 failed: 	8	 success: 	2
+002760	 cycle: 	11	 failed: 	24	 success: 	2
+002760	 cycle: 	12	 failed: 	5	 success: 	1
+002760	 cycle: 	14	 failed: 	10	 success: 	1
+
+
+
+002758	 cycle: 	7	 failed: 	53	 success: 	5
+002758	 cycle: 	8	 failed: 	3	 success: 	2
+002758	 cycle: 	9	 failed: 	24	 success: 	4
+002758	 cycle: 	10	 failed: 	1	 success: 	1
+002758	 cycle: 	11	 failed: 	22	 success: 	3
+002758	 cycle: 	12	 failed: 	25	 success: 	1
+002758	 cycle: 	13	 failed: 	5	 success: 	1
+002758	 cycle: 	14	 failed: 	4	 success: 	6
+002758	 cycle: 	15	 failed: 	10	 success: 	2
+002758	 cycle: 	16	 failed: 	3	 success: 	2
+002758	 cycle: 	17	 failed: 	14	 success: 	2
+002758	 cycle: 	18	 failed: 	9	 success: 	1
+002758	 cycle: 	20	 failed: 	9	 success: 	1
+
+
+
+002756	 cycle: 	7	 failed: 	33	 success: 	1
+002756	 cycle: 	9	 failed: 	35	 success: 	1
+002756	 cycle: 	10	 failed: 	22	 success: 	1
+002756	 cycle: 	12	 failed: 	1	 success: 	1
+002756	 cycle: 	13	 failed: 	34	 success: 	2
+002756	 cycle: 	14	 failed: 	13	 success: 	2
+002756	 cycle: 	15	 failed: 	31	 success: 	2
+
+
+
+002755	 cycle: 	7	 failed: 	2	 success: 	1
+002755	 cycle: 	8	 failed: 	26	 success: 	3
+002755	 cycle: 	9	 failed: 	24	 success: 	2
+002755	 cycle: 	10	 failed: 	43	 success: 	3
+002755	 cycle: 	11	 failed: 	5	 success: 	1
+002755	 cycle: 	12	 failed: 	19	 success: 	2
+002755	 cycle: 	13	 failed: 	15	 success: 	1
+002755	 cycle: 	14	 failed: 	16	 success: 	2
+002755	 cycle: 	15	 failed: 	17	 success: 	2
+002755	 cycle: 	19	 failed: 	33	 success: 	1
+002755	 cycle: 	20	 failed: 	0	 success: 	1
+
+
+
+002757	 cycle: 	7	 failed: 	51	 success: 	3
+002757	 cycle: 	9	 failed: 	24	 success: 	1
+002757	 cycle: 	10	 failed: 	6	 success: 	1
+002757	 cycle: 	12	 failed: 	19	 success: 	1
+002757	 cycle: 	13	 failed: 	41	 success: 	2
+002757	 cycle: 	14	 failed: 	2	 success: 	1
+002757	 cycle: 	15	 failed: 	6	 success: 	3
+002757	 cycle: 	16	 failed: 	31	 success: 	1
+002757	 cycle: 	17	 failed: 	53	 success: 	1
+002757	 cycle: 	20	 failed: 	37	 success: 	1
+
+
+
+002752	 cycle: 	7	 failed: 	0	 success: 	1
+002752	 cycle: 	8	 failed: 	14	 success: 	1
+002752	 cycle: 	11	 failed: 	25	 success: 	1
+002752	 cycle: 	12	 failed: 	0	 success: 	1
+002752	 cycle: 	13	 failed: 	9	 success: 	2
+002752	 cycle: 	15	 failed: 	10	 success: 	2
+002752	 cycle: 	16	 failed: 	36	 success: 	1
+002752	 cycle: 	17	 failed: 	14	 success: 	2
+002752	 cycle: 	19	 failed: 	4	 success: 	1
+002752	 cycle: 	20	 failed: 	2	 success: 	1
+
+
+
+002753	 cycle: 	7	 failed: 	12	 success: 	3
+002753	 cycle: 	9	 failed: 	85	 success: 	4
+002753	 cycle: 	10	 failed: 	70	 success: 	5
+002753	 cycle: 	11	 failed: 	17	 success: 	3
+002753	 cycle: 	13	 failed: 	77	 success: 	1
+002753	 cycle: 	14	 failed: 	51	 success: 	1
+002753	 cycle: 	15	 failed: 	22	 success: 	3
+002753	 cycle: 	17	 failed: 	31	 success: 	2
+002753	 cycle: 	19	 failed: 	21	 success: 	2
+
+
+
+002751	 cycle: 	8	 failed: 	5	 success: 	1
+002751	 cycle: 	10	 failed: 	0	 success: 	1
+002751	 cycle: 	11	 failed: 	0	 success: 	1
+002751	 cycle: 	13	 failed: 	15	 success: 	1
+002751	 cycle: 	14	 failed: 	0	 success: 	1
+
+
+
+002747	 cycle: 	7	 failed: 	2	 success: 	1
+002747	 cycle: 	8	 failed: 	36	 success: 	1
+002747	 cycle: 	9	 failed: 	37	 success: 	1
+002747	 cycle: 	11	 failed: 	13	 success: 	2
+002747	 cycle: 	12	 failed: 	8	 success: 	1
+002747	 cycle: 	15	 failed: 	17	 success: 	2
+002747	 cycle: 	16	 failed: 	8	 success: 	2
+002747	 cycle: 	17	 failed: 	8	 success: 	2
+002747	 cycle: 	18	 failed: 	17	 success: 	3
+002747	 cycle: 	19	 failed: 	4	 success: 	1
+002747	 cycle: 	20	 failed: 	20	 success: 	2
+
+
+
+002748	 cycle: 	7	 failed: 	55	 success: 	1
+002748	 cycle: 	8	 failed: 	13	 success: 	1
+002748	 cycle: 	9	 failed: 	75	 success: 	4
+002748	 cycle: 	10	 failed: 	10	 success: 	2
+002748	 cycle: 	11	 failed: 	78	 success: 	3
+002748	 cycle: 	12	 failed: 	42	 success: 	3
+002748	 cycle: 	13	 failed: 	31	 success: 	2
+002748	 cycle: 	16	 failed: 	34	 success: 	4
+002748	 cycle: 	17	 failed: 	47	 success: 	2
+002748	 cycle: 	20	 failed: 	48	 success: 	2
+
+
+
+
+
+
+002742	 cycle: 	7	 failed: 	2	 success: 	1
+002742	 cycle: 	9	 failed: 	13	 success: 	1
+002742	 cycle: 	10	 failed: 	78	 success: 	8
+002742	 cycle: 	11	 failed: 	0	 success: 	1
+002742	 cycle: 	12	 failed: 	19	 success: 	1
+002742	 cycle: 	13	 failed: 	37	 success: 	3
+002742	 cycle: 	16	 failed: 	12	 success: 	2
+002742	 cycle: 	17	 failed: 	7	 success: 	1
+002742	 cycle: 	18	 failed: 	10	 success: 	2
+002742	 cycle: 	20	 failed: 	0	 success: 	1
+
+
+
+002746	 cycle: 	7	 failed: 	70	 success: 	3
+002746	 cycle: 	8	 failed: 	41	 success: 	2
+002746	 cycle: 	9	 failed: 	39	 success: 	4
+002746	 cycle: 	10	 failed: 	44	 success: 	2
+002746	 cycle: 	11	 failed: 	33	 success: 	4
+002746	 cycle: 	12	 failed: 	40	 success: 	2
+002746	 cycle: 	13	 failed: 	19	 success: 	3
+002746	 cycle: 	14	 failed: 	2	 success: 	4
+002746	 cycle: 	15	 failed: 	18	 success: 	3
+002746	 cycle: 	16	 failed: 	13	 success: 	2
+002746	 cycle: 	17	 failed: 	19	 success: 	4
+002746	 cycle: 	20	 failed: 	12	 success: 	1
+
+
+
+002745	 cycle: 	8	 failed: 	12	 success: 	2
+002745	 cycle: 	9	 failed: 	10	 success: 	3
+002745	 cycle: 	10	 failed: 	8	 success: 	1
+002745	 cycle: 	11	 failed: 	10	 success: 	1
+002745	 cycle: 	12	 failed: 	0	 success: 	1
+002745	 cycle: 	13	 failed: 	1	 success: 	2
+002745	 cycle: 	14	 failed: 	2	 success: 	1
+002745	 cycle: 	16	 failed: 	20	 success: 	2
+002745	 cycle: 	17	 failed: 	11	 success: 	3
+002745	 cycle: 	19	 failed: 	1	 success: 	1
+002745	 cycle: 	20	 failed: 	4	 success: 	1
+
+
+
+002740	 cycle: 	7	 failed: 	32	 success: 	3
+002740	 cycle: 	8	 failed: 	53	 success: 	3
+002740	 cycle: 	9	 failed: 	15	 success: 	2
+002740	 cycle: 	10	 failed: 	12	 success: 	1
+002740	 cycle: 	11	 failed: 	39	 success: 	3
+002740	 cycle: 	12	 failed: 	7	 success: 	1
+002740	 cycle: 	13	 failed: 	16	 success: 	1
+002740	 cycle: 	14	 failed: 	12	 success: 	2
+002740	 cycle: 	15	 failed: 	32	 success: 	3
+002740	 cycle: 	16	 failed: 	9	 success: 	2
+002740	 cycle: 	17	 failed: 	0	 success: 	3
+002740	 cycle: 	18	 failed: 	0	 success: 	1
+002740	 cycle: 	19	 failed: 	9	 success: 	2
+
+
+
+
+
+
+002749	 cycle: 	7	 failed: 	44	 success: 	1
+002749	 cycle: 	8	 failed: 	31	 success: 	1
+
+
+
+002741	 cycle: 	7	 failed: 	36	 success: 	3
+002741	 cycle: 	8	 failed: 	1	 success: 	1
+002741	 cycle: 	9	 failed: 	42	 success: 	2
+002741	 cycle: 	10	 failed: 	2	 success: 	3
+002741	 cycle: 	11	 failed: 	5	 success: 	3
+002741	 cycle: 	15	 failed: 	20	 success: 	4
+002741	 cycle: 	16	 failed: 	2	 success: 	4
+002741	 cycle: 	17	 failed: 	19	 success: 	2
+002741	 cycle: 	18	 failed: 	2	 success: 	1
+002741	 cycle: 	20	 failed: 	24	 success: 	3
+
+
+
+002743	 cycle: 	8	 failed: 	9	 success: 	3
+002743	 cycle: 	10	 failed: 	25	 success: 	2
+002743	 cycle: 	12	 failed: 	15	 success: 	2
+002743	 cycle: 	13	 failed: 	2	 success: 	1
+002743	 cycle: 	14	 failed: 	44	 success: 	5
+002743	 cycle: 	15	 failed: 	29	 success: 	2
+002743	 cycle: 	16	 failed: 	4	 success: 	2
+002743	 cycle: 	19	 failed: 	7	 success: 	1
+
+
+
+002739	 cycle: 	7	 failed: 	51	 success: 	3
+002739	 cycle: 	8	 failed: 	7	 success: 	1
+002739	 cycle: 	9	 failed: 	21	 success: 	2
+002739	 cycle: 	10	 failed: 	14	 success: 	3
+002739	 cycle: 	11	 failed: 	5	 success: 	1
+002739	 cycle: 	12	 failed: 	31	 success: 	2
+002739	 cycle: 	15	 failed: 	14	 success: 	1
+002739	 cycle: 	16	 failed: 	6	 success: 	2
+002739	 cycle: 	17	 failed: 	12	 success: 	1
+002739	 cycle: 	18	 failed: 	1	 success: 	1
+002739	 cycle: 	19	 failed: 	0	 success: 	2
+002739	 cycle: 	20	 failed: 	14	 success: 	2
+
+
+
